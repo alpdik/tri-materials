@@ -44,6 +44,40 @@
         </a>
       </td>
     </tr>
-
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=pnnKzkNTo4w">
+         Doxygen Tutorial
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=D43JwPLRNVo">
+         UML Diagram (TR) - Şadi Evren Şeker
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=WnMQ8HlmeXc">
+          UML Diagram (EN) - freeCodeCamp
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=G_V9nlvJ44I">
+         UML Diagram Çizimi
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://plantuml.com/">
+         PlantUML Documentation
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
