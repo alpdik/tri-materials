@@ -16,6 +16,13 @@
   </thead>
 
   <tbody>
+  <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=0KDdU0DCbJA">
+        Firstly... Let's back to the 90's
+        </a>
+      </td>
+    </tr>
     <tr>
       <td>
         <a href="https://github.com/git/git/tree/e83c5163316f89bfbde7d9ab23ca2e25604af290">
@@ -76,6 +83,48 @@
       <td>
         <a href="https://plantuml.com/">
          PlantUML Documentation
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=BvR1Pgzzr38">
+         Copying and Copy Constructors
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=SgcHcbQ0RCQ&t=415s">
+         Iterators
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=UOB7-B2MfwA">
+         Smart Pointers
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=ehMg6zvXuMY">
+         Move Semantics
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=E4MWxaUy3zo">
+         Move Semantics & Rule of Five
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.youtube.com/watch?v=fbYknr-HPYE&t=699s">
+         lvalues and rvalues
         </a>
       </td>
     </tr>
